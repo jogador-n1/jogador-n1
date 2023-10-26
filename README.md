@@ -1,16 +1,14 @@
-### Hi there 👋
+### Bem vindo ao meu perfil. 🦊
 
-<!--
-**jogador-n1/jogador-n1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome e Ana Luiza 
 
-Here are some ideas to get you started:
+- Utilizo a plataforma Alura para aprender sobre programação.
+- 
+- Estou me desenvolvendo nas lnguagens JavaScript; HTNL e CSS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Ultilizo esse espaço para monha organização ecompartilhamento dos meus projetos.
+
+
+### voce pode entrar em contato comigo 📧
+
+bolduan.ana@ecola.pr.gov.br
