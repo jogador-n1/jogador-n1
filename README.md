@@ -12,3 +12,6 @@ Meu nome e Ana Luiza
 ### voce pode entrar em contato comigo 📧
 
 bolduan.ana@ecola.pr.gov.br
+
+
+![](https://media.tenor.com/02SVFOahJS4AAAAC/genshin-impact.gif)
